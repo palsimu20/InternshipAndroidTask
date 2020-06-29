@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">InstershipAndroidTask</string>
+    <string name="activity">Get 10 from Url data on RecycleView</string>
+    <string name="activity2">When click item then retrive data other Activity</string>
+</resources>

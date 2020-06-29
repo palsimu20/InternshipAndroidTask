@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "304844406432",
+    "firebase_url": "https://instershipandroidtask.firebaseio.com",
+    "project_id": "instershipandroidtask",
+    "storage_bucket": "instershipandroidtask.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:304844406432:android:d9216c409f2bd4789713c5",
+        "android_client_info": {
+          "package_name": "com.example.instershipandroidtask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "304844406432-flo7lmrj39f84defur6tt5ki1a8jbttn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.instershipandroidtask",
+            "certificate_hash": "20007cfd53f0624c79cd3f4bc245f3bfb2d3e5a8"
+          }
+        },
+        {
+          "client_id": "304844406432-h1ncne3kkd0u1equakbt9skhm38933f7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhTyRTLoVB1ybAbrN7HsqXjySa2TkSHWQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "304844406432-h1ncne3kkd0u1equakbt9skhm38933f7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
